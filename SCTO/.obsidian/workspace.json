@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "062bb2dd732d5070",
+    "type": "split",
+    "children": [
+      {
+        "id": "85fb903ed12669b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f08a11ccfeb27d25",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          },
+          {
+            "id": "68e0eb893f3ab5dc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/My-Canva.canvas",
+                "viewState": {
+                  "x": -77.5,
+                  "y": 40,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "705a183a696bd344",
+    "type": "split",
+    "children": [
+      {
+        "id": "893caea0b62ba53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e9c833c39092e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79030114292247cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"kanban-plugin\":",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6122b32f9984510f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4ab73e5ca81d4fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f1027b9aeedb0cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e93ef09024c4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7832789618f5a81a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Canvas/My-Canva.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ebfab15fcc5d8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Canvas/My-Canva.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "897d8f0c7eaed2e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6857a43a16461b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Canvas/My-Canva.canvas"
+              }
+            }
+          },
+          {
+            "id": "ccc3dcce557eede7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "68e0eb893f3ab5dc",
+  "lastOpenFiles": [
+    "Canvas/Untitled.canvas",
+    "Canvas/My-Canva.canvas",
+    "MY CANVA.md",
+    "My-Kanban.md",
+    "Abubakar Salihu Abba.md",
+    "Canvas/Readme canvas.md",
+    "Canvas/Book Dashboard.canvas",
+    "Canvas/Homepage.canvas",
+    "Canvas/Brainstorm.canvas",
+    "__Papers/Dhekre 2023.pdf",
+    "Markdown/Markdown.md",
+    "Mind Map/Readme Mind map.md",
+    "Dataview/Dataview 1.md",
+    "Mind Map/Mind mapping.md",
+    "Mind Map/IoT blockchain.md",
+    "Mind Map/Check box.md",
+    "Excalidraw/0 Start.md",
+    "Untitled.md",
+    "Data view 1.md",
+    "Dataview/Dataview Templates.md",
+    "SCTO System explained.md",
+    "Canvas/Reference Manager.canvas",
+    "__Media/download.jpeg",
+    "Dataview/Calendar.md",
+    "View Image",
+    "__Papers/Developing_satellite_hyperspectral_image_processin.pdf",
+    "Read this paper.md",
+    "Kanban/Kanban board.md",
+    "Excalidraw/mind map.md",
+    "My Kanban",
+    "Exercise 2/Combine.md",
+    "Exercise 1/Session 1.md",
+    "Exercise 2/readme1.md",
+    "Exercise 2/combine.md",
+    "Exercise 2/Chapter 3.md",
+    "Combine",
+    "Exercise 2/Chapter 2.md",
+    "Exercise 2",
+    "Exercise 1/Untitled",
+    "Pasted Image 20240204111401_419.png",
+    "Canvas/Library Dashboard.canvas",
+    "Canvas/Media Dashboard.canvas",
+    "Canvas/Sample.canvas",
+    "Canvas/Research Mindmap.canvas",
+    "Canvas/Start here.canvas",
+    "__Media/Zettelkasten steps.png",
+    "Canvas",
+    "Kanban",
+    "Zotero",
+    "__Media/Pasted Image 20240202102119_150.png",
+    "Pasted Image 20240202101844_201.png",
+    "__Media/Pasted Image 20240202095039_003.jpg",
+    "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
+    "__Media/Pasted image 20221214131115.png",
+    "__Media/Pasted image 20221214125814.png",
+    "__Media/Pasted image 20221214124807.png"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d0bf3448b83f02d0","x":-180,"y":-160,"width":142,"height":50,"type":"text","text":"Detection"},
+		{"id":"c336acef19781c38","x":-344,"y":-40,"width":164,"height":50,"type":"text","text":"Classification"},
+		{"id":"d5c8e6493b4faf4e","x":-120,"y":-40,"width":164,"height":55,"type":"text","text":"Segmentation"},
+		{"id":"406e622bb1af8a3d","x":44,"y":-40,"width":356,"height":260,"type":"text","text":"![](https://www.youtube.com/watch?v=MSt_WAQ0_Lg&pp=ygUPcG9jbyBwb2NvIGRhbmNl)"}
+	],
+	"edges":[
+		{"id":"ff091f4867f78915","fromNode":"d0bf3448b83f02d0","fromSide":"bottom","toNode":"c336acef19781c38","toSide":"top"},
+		{"id":"4bbf2ed3d58400de","fromNode":"d0bf3448b83f02d0","fromSide":"bottom","toNode":"d5c8e6493b4faf4e","toSide":"left"},
+		{"id":"bbe17016ee6cf96e","fromNode":"d0bf3448b83f02d0","fromSide":"bottom","toNode":"406e622bb1af8a3d","toSide":"top"}
+	]
+}
